@@ -41,7 +41,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[FitLog App](https://fitlog-app-livid.vercel.app/)**
 - 🌱 Currently learning **Next.js, TypeScript, Node.js & Backend Development**
 - 💻 Focused on **Full Stack Web Development**
 - 💬 Ask me about **JavaScript, React, Web Development, Git & GitHub**
