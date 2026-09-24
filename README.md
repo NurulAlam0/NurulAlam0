@@ -45,19 +45,6 @@
 - 📫 Email: **md2023siyam@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into real-world applications**
 
----
-
-## 🚀 Current Project
-
-### 🏋️ FitLog App
-
-A fitness tracking web application built to help users manage and track their fitness activities.
-
-🔗 **Live Demo:**  
-[https://fitlog-app-livid.vercel.app/](https://fitlog-app-livid.vercel.app/)
-
----
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Frontend
