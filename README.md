@@ -1,28 +1,169 @@
-<h1 align="center">Hi 👋, I'm Nurul Alam</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Fit log-app](https://fitlog-app-livid.vercel.app)
+<img 
+  src="./profile-cover.png" 
+  alt="Nurul Alam - Full Stack Web Developer"
+  width="100%"
+/>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Node.js, Backend Development**
+</div>
 
-- 💬 Ask me about **JavaScript, React, Web Development, Git & GitHub**
+<br/>
 
-- 📫 How to reach me **md2023siyam@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I love turning ideas into real-world applications**
+<h1>Hi 👋, I'm Nurul Alam</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siyam-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siyam-dev/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/33154326/md-siyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/33154326/md-siyam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/9y7k3fhzhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/9y7k3fhzhi/" height="30" width="40" /></a>
+<h3>Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+
+<p>
+  Building modern, scalable and user-focused web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/siyam-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:md2023siyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/9y7k3fhzhi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulalam0&show_icons=true&locale=en&layout=compact" alt="nurulalam0" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulalam0&show_icons=true&locale=en" alt="nurulalam0" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulalam0&" alt="nurulalam0" /></p>
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **[FitLog App](https://fitlog-app-livid.vercel.app/)**
+- 🌱 Currently learning **Next.js, TypeScript, Node.js & Backend Development**
+- 💻 Focused on **Full Stack Web Development**
+- 💬 Ask me about **JavaScript, React, Web Development, Git & GitHub**
+- 📫 Email: **md2023siyam@gmail.com**
+- ⚡ Fun fact: **I love turning ideas into real-world applications**
+
+---
+
+## 🚀 Current Project
+
+### 🏋️ FitLog App
+
+A fitness tracking web application built to help users manage and track their fitness activities.
+
+🔗 **Live Demo:**  
+[https://fitlog-app-livid.vercel.app/](https://fitlog-app-livid.vercel.app/)
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database Technologies"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development Tools"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs" alt="Currently Learning"/>
+</p>
+
+- Next.js
+- TypeScript
+- Node.js
+- Backend Development
+- REST API Development
+- Authentication & Authorization
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a professional **Full Stack Developer**
+- 🧠 Improve **Data Structures & Algorithms**
+- ⚙️ Build production-ready web applications
+- 🔐 Improve backend security and authentication
+- ☁️ Learn modern deployment and cloud technologies
+- 🤖 Explore AI integration in web applications
+- 💼 Start my professional career in software development
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=nurulalam0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Nurul Alam's GitHub Statistics"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulalam0&layout=compact&langs_count=8&hide_border=true"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nurulalam0&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/siyam-dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/9y7k3fhzhi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="45" alt="LeetCode"/>
+</a>
+
+<a href="mailto:md2023siyam@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Build • Learn • Improve • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>
