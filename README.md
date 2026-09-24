@@ -117,17 +117,7 @@ A fitness tracking web application built to help users manage and track their fi
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=nurulalam0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  alt="Nurul Alam's GitHub Statistics"
-/>
 
-<br/><br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulalam0&layout=compact&langs_count=8&hide_border=true"
-  alt="Top Languages"
-/>
 
 <br/><br/>
 
@@ -148,7 +138,7 @@ A fitness tracking web application built to help users manage and track their fi
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/u/9y7k3fhzhi/" target="_blank">
+<a href="https://leetcode.com/u/9y7k3fhzHI/" target="_blank">
   <img src="https://skillicons.dev/icons?i=leetcode" width="45" alt="LeetCode"/>
 </a>
 
